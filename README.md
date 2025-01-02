@@ -18,8 +18,8 @@ Welcome to my GitHub portfolio! Here, you’ll find an overview of my projects a
 ---
 
 ### 2. [Task2-YOLO-based-football-player-tracking](https://github.com/MohamedSayed-2005/Task2-YOLO-based-football-player-tracking.git)
-- **Description:** A creative 3D Tetris game where human organs replace the blocks.
-- **Technologies:** Python,MATLAP
+- **Description:** A system to track football players in real-time using the YOLO (You Only Look Once) object detection model. The model detects players on the field, and their movements are tracked throughout the match. The application might include features such as player identification, trajectory analysis, and even event recognition (e.g., goals, passes). It can be built using frameworks like TensorFlow, PyTorch, or OpenCV for image processing and real-time analysis.
+- **Technologies:**  Python (YOLO, OpenCV, TensorFlow, Keras)
 - **Repository Link:** [https://github.com/MohamedSayed-2005/Task2-YOLO-based-football-player-tracking.git](https://github.com/MohamedSayed-2005/Task2-YOLO-based-football-player-tracking.git)
 
 ---
@@ -32,14 +32,14 @@ Welcome to my GitHub portfolio! Here, you’ll find an overview of my projects a
 ---
 
 ### 4. [Task4-Dicom_Tag_Viewer](https://github.com/MohamedSayed-2005/Task4-Dicom_Tag_Viewer.git)
-- **Description:** A creative 3D Tetris game where human organs replace the blocks.
+- **Description:** A tool designed to read and display metadata from DICOM (Digital Imaging and Communications in Medicine) files. This includes headers, tags, patient information, and image acquisition data, often used in medical imaging workflows. Advanced features could include search, filtering, or exporting tag information.
 - **Technologies:**  Python,MATLAP
 - **Repository Link:** [https://github.com/MohamedSayed-2005/Task4-Dicom_Tag_Viewer.git](https://github.com/MohamedSayed-2005/Task4-Dicom_Tag_Viewer.git)
 
 ---
 
 ### 5. [Task5-Image_Viewer](https://github.com/MohamedSayed-2005/Task5-Image_Viewer.git)
-- **Description:** A creative 3D Tetris game where human organs replace the blocks.
+- **Description:** An application to load, display, and navigate through images. Features may include zooming, rotating, and basic image manipulations such as cropping or resizing. Can be implemented for desktop, web, or mobile platforms.
 - **Technologies:**  Python,MATLAP
 - **Repository Link:** [https://github.com/MohamedSayed-2005/Task5-Image_Viewer.git](https://github.com/MohamedSayed-2005/Task5-Image_Viewer.git)
 
