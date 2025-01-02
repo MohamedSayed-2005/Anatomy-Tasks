@@ -19,15 +19,15 @@ Welcome to my GitHub portfolio! Here, you’ll find an overview of my projects a
 
 ### 2. [Task2-YOLO-based-football-player-tracking](https://github.com/MohamedSayed-2005/Task2-YOLO-based-football-player-tracking.git)
 - **Description:** A creative 3D Tetris game where human organs replace the blocks.
-- **Technologies:** Unity, C#
+- **Technologies:** 
 - **Repository Link:** [https://github.com/MohamedSayed-2005/Task2-YOLO-based-football-player-tracking.git](https://github.com/MohamedSayed-2005/Task2-YOLO-based-football-player-tracking.git)
 
 ---
 
-### 1. [Task1-MPR](https://github.com/MohamedSayed-2005/Task1-MPR.git)
+### 3. [Task3-3D_Anatomy_Puzzle](https://github.com/MohamedSayed-2005/Task3-3D_Anatomy_Puzzle.git)
 - **Description:** A creative 3D Tetris game where human organs replace the blocks.
 - **Technologies:** Unity, C#
-- **Repository Link:** [https://github.com/username/tetris-organs-game](https://github.com/username/tetris-organs-game)
+- **Repository Link:** [https://github.com/MohamedSayed-2005/Task3-3D_Anatomy_Puzzle.git](https://github.com/MohamedSayed-2005/Task3-3D_Anatomy_Puzzle.git)
 
 ---
 
